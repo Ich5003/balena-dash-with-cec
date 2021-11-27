@@ -25,3 +25,7 @@ services:
   fbcp:
     image: balenablocks/fbcp
     privileged: true
+  cec:
+    restart: always
+    build: ./cec
+    privileged: true

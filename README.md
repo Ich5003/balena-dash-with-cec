@@ -48,7 +48,7 @@ The list of items you’ll need is also included below:
 ## Setup and configuration
 
 You can deploy this app to a new balenaCloud fleet in one click using the button below:
-[![](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/balenalabs/balena-dash)
+[![](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/Ich5003/balena-dash-with-cec)
 
 Or, you can create a fleet in your balenaCloud dashboard and `balena push` this code to it the traditional way. Just be aware that balenaDash requires that you allocate more memory to the GPU. This is achieved by adding (or editing the existing) the **Device configuration variable** `BALENA_HOST_CONFIG_gpu_mem`, for this project we recommend setting it to `128`.
 
