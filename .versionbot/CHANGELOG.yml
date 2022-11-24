@@ -1,4 +1,81 @@
 - commits:
+    - subject: Add notes to balena.yml
+      hash: 3f139bdd82e576ba38ca489164909cf6a670e053
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Chris Crocker-White <chriscw@balena.io>
+        signed-off-by: Chris Crocker-White <chriscw@balena.io>
+      author: Chris Crocker-White
+      nested: []
+  version: 2.0.5
+  title: "'Add notes to balena.yml'"
+  date: 2022-08-03T23:25:10.276Z
+- commits:
+    - subject: Bump browser block version
+      hash: 35d8b7b058aef2cc767e87a3c9821fff870f77ef
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Chris Crocker-White <chriscw@balena.io>
+        signed-off-by: Chris Crocker-White <chriscw@balena.io>
+      author: Chris Crocker-White
+      nested: []
+  version: 2.0.4
+  title: "'Bump browser block version'"
+  date: 2022-08-03T21:06:02.237Z
+- commits:
+    - subject: Updated dead links
+      hash: 3909069e66322a8abedd07a4022aad936a5deb31
+      body: >
+        Looks like the original Fishtank is gone so found it on webglsamples.org
+        instead. Also Akirodic has updated the url for the jellyfish. Finally
+        added a link to what we use the Balena-dash project for.
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Chris Crocker-White <chriscw@balena.io>
+        signed-off-by: Chris Crocker-White <chriscw@balena.io>
+        Co-authored-by: Martin Westergaard Lassen <martin@mwl.dk>
+        co-authored-by: Martin Westergaard Lassen <martin@mwl.dk>
+      author: Chris Crocker-White
+      nested: []
+  version: 2.0.3
+  title: "'Updated dead links'"
+  date: 2022-08-03T19:54:26.341Z
+- commits:
+    - subject: Create balena.yml
+      hash: eb60760eeb22994f8092078b271a2102e15b66fa
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Chris Crocker-White <chriscw@balena.io>
+        signed-off-by: Chris Crocker-White <chriscw@balena.io>
+        Co-authored-by: Phil Wilson <phil@balena.io>
+        co-authored-by: Phil Wilson <phil@balena.io>
+      author: Phil Wilson
+      nested: []
+  version: 2.0.2
+  title: "'Create balena.yml'"
+  date: 2022-08-03T19:23:30.483Z
+- commits:
+    - subject: "Update readme fixes #153"
+      hash: a6f5f8ea26fac9738fff4d0dc3cf917cbd3ac3bb
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Chris Crocker-White <chriscw@balena.io>
+        signed-off-by: Chris Crocker-White <chriscw@balena.io>
+      author: Chris Crocker-White
+      nested: []
+  version: 2.0.1
+  title: "'Update readme fixes #153'"
+  date: 2022-08-03T18:59:03.868Z
+- commits:
     - subject: Move to balenaCloud hosted browser block. Swap Tahora for browsercontrol.
       hash: 7037c59bf556ef368709f6d35bc89160c6148537
       body: ""
