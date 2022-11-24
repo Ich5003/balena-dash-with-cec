@@ -1,6 +1,7 @@
 version: '2'
 volumes:
-  settings:
+  settings1:
+  settings2:
 services:
   kiosk1:
     restart: always
