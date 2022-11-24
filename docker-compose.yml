@@ -19,10 +19,6 @@ services:
       - 5012:5011
     volumes:
       - 'settings2:/data'
-  fbcp:
-    build: ./fbcp
-    restart: on-failure
-    privileged: true
   browsercontrol:
     build: ./browsercontrol
     restart: always
